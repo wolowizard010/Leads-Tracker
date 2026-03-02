@@ -12,7 +12,7 @@ if (leadsFromLocalStorage) {
 }
 
 const tabs = [
-    {url: "https://www.linkedin.com/in/per-harald-borgen/"}
+    {url: ""}
 ]
 
 tabBtn.addEventListener("click", function() {
