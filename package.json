@@ -1,6 +1,6 @@
 {
-  "name": "Scrim-s01uaao",
-  "description": "https://scrimba.com/fullstack-path-c0fullstack/~09d/s0c2gmt7jp/head",
+  "name": "Jasdeep",
+  "description": "Simple bookmarking extension",
   "scripts": {
     "start": "vite",
     "dev": "vite",
